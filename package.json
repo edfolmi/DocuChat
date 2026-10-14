@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.ts",
+    "start": "node src/app.ts"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6"
+  }
+}
